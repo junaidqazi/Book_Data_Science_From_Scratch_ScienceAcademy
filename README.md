@@ -16,5 +16,5 @@
 #### A Message from [Dr. Qazi](https://www.linkedin.com/in/jqazi/)
 
 <p align="center">
-  <img src="Qazi.png" width="200" align="left">
+  <img src="Qazi.png" width="250" align="left">
 </p>
