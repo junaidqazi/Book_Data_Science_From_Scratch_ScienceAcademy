@@ -2,7 +2,7 @@
   <img src="Book_Cover.jpeg" width="300" align="left">
 </p>
 
-# [www.scienceacademy.ca](http://www.scienceacademy.ca)
+### [www.scienceacademy.ca](http://www.scienceacademy.ca)
 
 <a href='http://www.scienceacademy.ca'>
   <p align="center">
