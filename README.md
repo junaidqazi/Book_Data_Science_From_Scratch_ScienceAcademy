@@ -13,7 +13,7 @@
 
 ### [www.scienceacademy.ca](http://www.scienceacademy.ca)
 
-#### A Message from [Dr. Qazi](https://www.linkedin.com/in/jqazi/)
+#### A Message from [Junaid S. Qazi, PhD](https://www.linkedin.com/in/jqazi/)
 
 <p align="center">
   <img src="Qazi.png" width="250" align="left">
