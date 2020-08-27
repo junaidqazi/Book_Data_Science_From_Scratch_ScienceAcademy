@@ -3,7 +3,7 @@
   <img src="Book_Cover.jpeg" width="500" align="left">
 </p>
  </a>
-<br><br><br>
+<br><br><br><br><br><br>
 
 # [www.scienceacademy.ca](http://www.scienceacademy.ca)
 
