@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Book_Cover.jpeg" width="300" align="left">
+  <img src="Book_Cover.jpeg" width="400" align="left">
 </p>
 
 
@@ -16,5 +16,5 @@
 #### A Message from [Dr. Qazi](https://www.linkedin.com/in/jqazi/)
 
 <p align="center">
-  <img src="Qazi.png" width="300" align="left">
+  <img src="Qazi.png" width="200" align="left">
 </p>
