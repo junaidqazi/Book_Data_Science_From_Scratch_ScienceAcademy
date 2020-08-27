@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Book_Cover.jpeg" width="500" align="left">
+  <img src="Book_Cover.jpeg" width="300" align="left">
 </p>
 
 # [www.scienceacademy.ca](http://www.scienceacademy.ca)
