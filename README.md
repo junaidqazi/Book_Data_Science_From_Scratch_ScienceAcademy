@@ -1,6 +1,6 @@
 <a href='http://www.scienceacademy.ca'>
 <p align="center">
-  <img src="Book_Cover.jpeg" width="350" align="left">
+  <img src="Book_Cover.jpeg" width="500" align="left">
 </p>
  </a>
 <br><br><br>
