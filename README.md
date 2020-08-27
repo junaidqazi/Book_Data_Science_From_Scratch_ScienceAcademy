@@ -13,4 +13,4 @@
 
 ### [www.scienceacademy.ca](http://www.scienceacademy.ca)
 
-
+#### A Message from [Dr. Qazi](https://www.linkedin.com/in/jqazi/)
