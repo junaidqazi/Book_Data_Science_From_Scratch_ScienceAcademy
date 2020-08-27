@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Book_Cover.jpeg" width="400" align="left">
+  <img src="Book_Cover.jpeg" width="350" align="left">
 </p>
 
 
