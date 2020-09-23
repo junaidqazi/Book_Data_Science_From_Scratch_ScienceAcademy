@@ -19,4 +19,4 @@
   <img src="Qazi.png" width="250" align="left">
 </p>
 
-##### Purpose of this book: ??????????????
+##### Purpose of this book: The book is in final editing stage and will be launched soon. 
