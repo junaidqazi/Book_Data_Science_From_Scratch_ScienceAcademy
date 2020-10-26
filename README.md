@@ -1,6 +1,6 @@
 <a href='https://leanpub.com/data-science-from-scratch'>
 <p align="center">
-  <img src="Book_Cover.jpeg" width="365" align="left">
+  <img src="Book_Cover_Final.png" width="365" align="left">
 </p>
 </a>
 
