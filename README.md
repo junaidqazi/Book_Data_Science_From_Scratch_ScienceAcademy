@@ -12,7 +12,7 @@
 <br><br><br>
 
 ### [www.scienceacademy.ca](http://www.scienceacademy.ca)
-##### [Unedited copy is published on leanpub with 50% reduced price.](https://leanpub.com/data-science-from-scratch)
+##### [Click here to get unedited copy with 50% reduced price.](https://leanpub.com/data-science-from-scratch)
 
 #### Contact [Junaid S. Qazi, PhD](https://www.linkedin.com/in/jqazi/)
 
