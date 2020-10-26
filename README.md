@@ -18,5 +18,5 @@
 #### Contact [Junaid S. Qazi, PhD](https://www.linkedin.com/in/jqazi/)
 
 <p align="center">
-  <img src="Qazi.png" width="250" align="left">
+  <img src="Qazi.png" width="220" align="left">
 </p>
