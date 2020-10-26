@@ -19,4 +19,8 @@
   <img src="Qazi.png" width="250" align="left">
 </p>
 
-##### Purpose of this book: The book is in final editing stage and will be launched soon. 
+
+
+
+
+##### [Unedited copy is published on leanpub with 50% reduced price.](https://leanpub.com/data-science-from-scratch)
