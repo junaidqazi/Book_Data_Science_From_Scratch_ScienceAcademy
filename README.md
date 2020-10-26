@@ -1,7 +1,8 @@
+<a href='https://leanpub.com/data-science-from-scratch'>
 <p align="center">
   <img src="Book_Cover.jpeg" width="365" align="left">
 </p>
-
+</a>
 
 
 <a href='http://www.scienceacademy.ca'>
