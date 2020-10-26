@@ -23,4 +23,19 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##### [Unedited copy is published on leanpub with 50% reduced price.](https://leanpub.com/data-science-from-scratch)
